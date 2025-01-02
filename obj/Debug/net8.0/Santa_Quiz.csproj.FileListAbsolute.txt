@@ -1,0 +1,14 @@
+C:\Users\Dev Aditya\OneDrive\Desktop\.net\santa_quiz\bin\Debug\net8.0\Santa_Quiz.exe
+C:\Users\Dev Aditya\OneDrive\Desktop\.net\santa_quiz\bin\Debug\net8.0\Santa_Quiz.deps.json
+C:\Users\Dev Aditya\OneDrive\Desktop\.net\santa_quiz\bin\Debug\net8.0\Santa_Quiz.runtimeconfig.json
+C:\Users\Dev Aditya\OneDrive\Desktop\.net\santa_quiz\bin\Debug\net8.0\Santa_Quiz.dll
+C:\Users\Dev Aditya\OneDrive\Desktop\.net\santa_quiz\bin\Debug\net8.0\Santa_Quiz.pdb
+C:\Users\Dev Aditya\OneDrive\Desktop\.net\santa_quiz\obj\Debug\net8.0\Santa_Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev Aditya\OneDrive\Desktop\.net\santa_quiz\obj\Debug\net8.0\Santa_Quiz.AssemblyInfoInputs.cache
+C:\Users\Dev Aditya\OneDrive\Desktop\.net\santa_quiz\obj\Debug\net8.0\Santa_Quiz.AssemblyInfo.cs
+C:\Users\Dev Aditya\OneDrive\Desktop\.net\santa_quiz\obj\Debug\net8.0\Santa_Quiz.csproj.CoreCompileInputs.cache
+C:\Users\Dev Aditya\OneDrive\Desktop\.net\santa_quiz\obj\Debug\net8.0\Santa_Quiz.dll
+C:\Users\Dev Aditya\OneDrive\Desktop\.net\santa_quiz\obj\Debug\net8.0\refint\Santa_Quiz.dll
+C:\Users\Dev Aditya\OneDrive\Desktop\.net\santa_quiz\obj\Debug\net8.0\Santa_Quiz.pdb
+C:\Users\Dev Aditya\OneDrive\Desktop\.net\santa_quiz\obj\Debug\net8.0\Santa_Quiz.genruntimeconfig.cache
+C:\Users\Dev Aditya\OneDrive\Desktop\.net\santa_quiz\obj\Debug\net8.0\ref\Santa_Quiz.dll
